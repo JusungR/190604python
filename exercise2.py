@@ -17,7 +17,7 @@ line2 = '---(------------)-----'
 line3 = '--(--------------)(--)'
 
 lines = list({line1, line2, line3})
-print(len(razer))
+#print(len(razer))
 
 def HowMany(line):
     count1=0
